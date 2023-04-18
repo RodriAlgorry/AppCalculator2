@@ -103,6 +103,7 @@ namespace AppCalculadora2
             txtOperador1.Text = "0";
             lblResultado.Text = "";
             txtOperador1.Focus();
+            txtOperador1.SelectAll();
         }
     }
 }

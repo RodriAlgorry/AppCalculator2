@@ -1,0 +1,6 @@
+C:\Users\rodri\OneDrive\Escritorio\Programación\Codigos\Visual\AppCalculadora2.FE\AppCalculator2.BE\bin\Debug\AppCalculator2.BE.dll
+C:\Users\rodri\OneDrive\Escritorio\Programación\Codigos\Visual\AppCalculadora2.FE\AppCalculator2.BE\bin\Debug\AppCalculator2.BE.pdb
+C:\Users\rodri\OneDrive\Escritorio\Programación\Codigos\Visual\AppCalculadora2.FE\AppCalculator2.BE\obj\Debug\AppCalculator2.BE.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Escritorio\Programación\Codigos\Visual\AppCalculadora2.FE\AppCalculator2.BE\obj\Debug\AppCalculator2.BE.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Escritorio\Programación\Codigos\Visual\AppCalculadora2.FE\AppCalculator2.BE\obj\Debug\AppCalculator2.BE.dll
+C:\Users\rodri\OneDrive\Escritorio\Programación\Codigos\Visual\AppCalculadora2.FE\AppCalculator2.BE\obj\Debug\AppCalculator2.BE.pdb

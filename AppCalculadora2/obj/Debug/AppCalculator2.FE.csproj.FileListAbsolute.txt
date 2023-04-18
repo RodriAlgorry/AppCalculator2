@@ -1,0 +1,14 @@
+C:\Users\rodri\OneDrive\Escritorio\Programación\Codigos\Visual\AppCalculadora2.FE\AppCalculadora2\bin\Debug\AppCalculadora2.exe.config
+C:\Users\rodri\OneDrive\Escritorio\Programación\Codigos\Visual\AppCalculadora2.FE\AppCalculadora2\bin\Debug\AppCalculadora2.exe
+C:\Users\rodri\OneDrive\Escritorio\Programación\Codigos\Visual\AppCalculadora2.FE\AppCalculadora2\bin\Debug\AppCalculadora2.pdb
+C:\Users\rodri\OneDrive\Escritorio\Programación\Codigos\Visual\AppCalculadora2.FE\AppCalculadora2\bin\Debug\AppCalculator2.BE.dll
+C:\Users\rodri\OneDrive\Escritorio\Programación\Codigos\Visual\AppCalculadora2.FE\AppCalculadora2\bin\Debug\AppCalculator2.BE.pdb
+C:\Users\rodri\OneDrive\Escritorio\Programación\Codigos\Visual\AppCalculadora2.FE\AppCalculadora2\obj\Debug\AppCalculator2.FE.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Escritorio\Programación\Codigos\Visual\AppCalculadora2.FE\AppCalculadora2\obj\Debug\AppCalculator2.FE.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodri\OneDrive\Escritorio\Programación\Codigos\Visual\AppCalculadora2.FE\AppCalculadora2\obj\Debug\AppCalculadora2.frmCalculadora.resources
+C:\Users\rodri\OneDrive\Escritorio\Programación\Codigos\Visual\AppCalculadora2.FE\AppCalculadora2\obj\Debug\AppCalculadora2.Properties.Resources.resources
+C:\Users\rodri\OneDrive\Escritorio\Programación\Codigos\Visual\AppCalculadora2.FE\AppCalculadora2\obj\Debug\AppCalculator2.FE.csproj.GenerateResource.cache
+C:\Users\rodri\OneDrive\Escritorio\Programación\Codigos\Visual\AppCalculadora2.FE\AppCalculadora2\obj\Debug\AppCalculator2.FE.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Escritorio\Programación\Codigos\Visual\AppCalculadora2.FE\AppCalculadora2\obj\Debug\AppCalculator2.FE.csproj.CopyComplete
+C:\Users\rodri\OneDrive\Escritorio\Programación\Codigos\Visual\AppCalculadora2.FE\AppCalculadora2\obj\Debug\AppCalculadora2.exe
+C:\Users\rodri\OneDrive\Escritorio\Programación\Codigos\Visual\AppCalculadora2.FE\AppCalculadora2\obj\Debug\AppCalculadora2.pdb
